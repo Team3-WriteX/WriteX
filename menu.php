@@ -67,25 +67,10 @@
             <ul class="nav navbar-nav navbar-right">
              
             
-        
-                  <li ><a  href="service1.php" >Services</a>
-                    
-                  </li>
-                  <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Pricing</a>
-                    <ul class="dropdown-menu">
-                      <li><a href="pricing1.html">Pricing 1</a></li>
-                      <li><a href="pricing2.html">Pricing 2</a></li>
-                    </ul>
-                  </li>
-                
-                  <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Contact</a>
-                    <ul class="dropdown-menu">
-                      <li><a href="contact1.html">Contact 1</a></li>
-                      <li><a href="contact2.html">Contact 2</a></li>
-                      <li><a href="contact3.html">Contact 3</a></li>
-                    </ul>
-                  </li>
-                
+                  <li ><a  href="about1.html" >About</a></li>
+                  <li ><a  href="service1.php" >Services</a></li>
+                  <li ><a  href="#" >Pricing</a></li>
+                  <li ><a  href="#" >Contact</a></li>
                   <li><a href="login_register.html">Login / Register</a></li>
                   <li><a href="faq.html">FAQ</a></li>
                  
@@ -165,18 +150,7 @@
               </li>
               
               
-              <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Shop</a>
-                <ul class="dropdown-menu" role="menu">
-                  <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Product</a>
-                    <ul class="dropdown-menu">
-                      <li><a href="shop_product_col_3.html">3 columns</a></li>
-                      <li><a href="shop_product_col_4.html">4 columns</a></li>
-                    </ul>
-                  </li>
-                  <li><a href="shop_single_product.html">Single Product</a></li>
-                  <li><a href="shop_checkout.html">Checkout</a></li>
-                </ul>
-              </li>
+              <li ><a  href="#" >Service Request</a></li>
             </ul>
           </div>
         </div>

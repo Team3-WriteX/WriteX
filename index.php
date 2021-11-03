@@ -220,7 +220,7 @@ require_once("menu.php");
             <div class="col-xs-12 col-md-6 side-image-text">
               <div class="row">
                 <div class="col-sm-12">
-                  <h2 class="module-title font-alt align-left">Reserve a Table</h2>
+                  <h2 class="module-title font-alt align-left">Reserve For Writing Service</h2>
                   <p class="module-subtitle font-serif align-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
                 </div>
               </div>
