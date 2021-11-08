@@ -20,22 +20,22 @@
                 <h4 class="font-alt">Make Your Order</h4><br/>
                 <form id="orderForm" role="form" method="post" action="#">
                   <div class="form-group">
-                    <label  for="name">Please Enter a title for your order</label>
+                    <label  for="name">Please Enter a title for your order:</label>
                     <input class="form-control" type="text" id="name" name="name" required="required" data-validation-required-message="Please enter the title of your order."/>
                     <p class="help-block text-danger"></p>
                   </div>
                   <div class="form-group">
                   <div class="input-group">
-                  <label  for="bibliography">Do you want want us to edit or proofread your bibliography/references</label>
-                    <select class="form-control input-lg" id="bibliography" name="bibliography" type="text" required="required">
+                  <label  for="service_type">Choose Service Type for Your order: </label>
+                    <select class="form-control input-lg" id="service_type" name="service_type" type="text" required="required">
                       <option value="bibliography" disabled="" selected="">Select:</option>
-                      <option value="yes and I will tell you my style guide">Yes and I will tell you my style guide</option>
-                      <option value="Not Applicable">Not Applicable</option>
+                      <option value="id1">Academic</option>
+                      <option value="id2">Professional</option>
                     </select>
                   </div>
                 </div>
                 <div class="input-group">
-                  <label  for="style"> Select any specific style guide of choice </label>
+                  <label  for="style"> Select any Staff member of your choice your order should assigned to: </label>
                     <select class="form-control input-lg" id="style" name="style" type="text" required="required">
                       <option value="style" disabled="" selected="">Select:</option>
                       <option value="APA">APA</option>
@@ -45,28 +45,19 @@
                     </select>
                   </div>
                 </div>
-                
+              
                   <div class="form-group">
-                  <label  for="style"> Any Special Instructions for this order below:</label>
+                  <label for="specification"> Any Special Instructions for this order below:</label>
                     <textarea class="form-control" rows="7" id="specification" name="specification"  required="required" data-validation-required-message="Please enter your message."></textarea>
                     <p class="help-block text-danger"></p>
                   </div>
                   <div class="text-center">
-                    <button class="btn btn-block btn-round btn-d" id="cfsubmit" type="submit">Submit</button>
+                    <button class="btn btn-block btn-round btn-d" id="desc" type="submit">Submit</button>
                   </div>
                 </form>
-                <div class="ajax-response font-alt" id="contactFormResponse"></div>
+                <div class="ajax-response font-alt" id="desc"></div>
               </div>
-              <div class="col-sm-6">
-                <h4 class="font-alt">Additional info</h4><br/>
-                <p>I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend.</p>
-                <hr/>
-                <h4 class="font-alt">Business Hours</h4><br/>
-                <ul class="list-unstyled">
-                  <li>Mo - Fr: 8am to 6pm</li>
-                  <li>Sa, Su: 10am to 2pm</li>
-                </ul>
-              </div>
+             
             </div>
           </div>
         </section>
