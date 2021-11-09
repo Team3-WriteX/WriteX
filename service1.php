@@ -8,7 +8,7 @@ require_once('menu.php')?>
             <div class="row">
               <div class="col-sm-6 col-sm-offset-3">
                 <h2 class="module-title font-alt">Services</h2>
-                <div class="module-subtitle font-serif">A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</div>
+                <div class="module-subtitle font-serif">We strive for a five-star customer experience with each order. At WriteX, we are proud to be the industry leader in quality editing and proofreading with the highest rating in customer service and satisfaction. We work hard to maintain this status with a friendly customer service team that helps our clients address any technical or service issues that may arise, making their experience as smooth as possible.</div>
               </div>
             </div>
           </div>
@@ -16,67 +16,26 @@ require_once('menu.php')?>
         <section class="module" id="services">
           <div class="container">
             <div class="row">
-              <div class="col-sm-6 col-sm-offset-3">
+              <div class="col">
                 <h2 class="module-title font-alt"></h2>
                 <div class="module-subtitle font-serif"></div>
               </div>
             </div>
             <div class="row multi-columns-row">
-              <div class="col-md-3 col-sm-6 col-xs-12">
+              <div class="col">
+              <div class="row d-flex justify-content-center text-center" >
+              <div class="col">
                 <div class="features-item">
-                  <div class="features-icon"><span class="icon-lightbulb"></span></div>
-                  <h3 class="features-title font-alt">Ideas and concepts</h3>
-                  <p>Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.</p>
+                  <div class="features-icon"><span class="icon-documents"></span></div>
+                  <h3 class="features-title font-alt">Academic Writing</h3> We help your work reach its potential. In addition, our experts can help you free up time and energy by formatting your citations and references according to the style guide of your choice as well as proof read your work.
                 </div>
               </div>
-              <div class="col-md-3 col-sm-6 col-xs-12">
+              <div class="col">
                 <div class="features-item">
-                  <div class="features-icon"><span class="icon-bike"></span></div>
-                  <h3 class="features-title font-alt">Optimised for speed</h3>
-                  <p>Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.</p>
+                  <div class="features-icon"><span class="icon-edit"></span></div>
+                  <h3 class="features-title font-alt">Professional Writing</h3>We provide affordable resume and cover letter editors with the competitive advantage it needs to go straight to the top of the interview list. Our expert editors will ensure that your strengths and most relevant work experiences are highlighted.
                 </div>
               </div>
-              <div class="col-md-3 col-sm-6 col-xs-12">
-                <div class="features-item">
-                  <div class="features-icon"><span class="icon-tools"></span></div>
-                  <h3 class="features-title font-alt">Designs &amp; interfaces</h3>
-                  <p>Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.</p>
-                </div>
-              </div>
-              <div class="col-md-3 col-sm-6 col-xs-12">
-                <div class="features-item">
-                  <div class="features-icon"><span class="icon-gears"></span></div>
-                  <h3 class="features-title font-alt">Highly customizable</h3>
-                  <p>Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.</p>
-                </div>
-              </div>
-              <div class="col-md-3 col-sm-6 col-xs-12">
-                <div class="features-item">
-                  <div class="features-icon"><span class="icon-tools-2"></span></div>
-                  <h3 class="features-title font-alt">Coding &amp; development</h3>
-                  <p>Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.</p>
-                </div>
-              </div>
-              <div class="col-md-3 col-sm-6 col-xs-12">
-                <div class="features-item">
-                  <div class="features-icon"><span class="icon-genius"></span></div>
-                  <h3 class="features-title font-alt">Features &amp; plugins</h3>
-                  <p>Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.</p>
-                </div>
-              </div>
-              <div class="col-md-3 col-sm-6 col-xs-12">
-                <div class="features-item">
-                  <div class="features-icon"><span class="icon-mobile"></span></div>
-                  <h3 class="features-title font-alt">Responsive design</h3>
-                  <p>Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.</p>
-                </div>
-              </div>
-              <div class="col-md-3 col-sm-6 col-xs-12">
-                <div class="features-item">
-                  <div class="features-icon"><span class="icon-lifesaver"></span></div>
-                  <h3 class="features-title font-alt">Dedicated support</h3>
-                  <p>Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.</p>
-                </div>
               </div>
             </div>
           </div>
@@ -86,12 +45,30 @@ require_once('menu.php')?>
             <div class="row">
               <div class="col-sm-6 col-md-8 col-lg-6 col-lg-offset-2">
                 <div class="callout-text font-alt">
-                  <h3 class="callout-title">Want to see more works?</h3>
-                  <p>We are always open to interesting projects.</p>
+                  <h3 class="callout-title">What will you receive? </h3>
+                  <p><ul>
+                  <li>An edited manuscript in which spelling errors, grammar errors, and typos have been corrected </li>
+                  <li>Changes and suggestions to help improve clarity, flow, structure, and readability</li>
+                  <li>Tracked revisions so that you can see and review all the changes that have been made</li>
+                  <li>Formatting of citations and references to your target journal's guidelines</li>
+                  <li>A short summary of the work that has been done and any major concerns</li>
+                  </ul>
+
+                  <h3 class="callout-title">What types of documents can you use this service for?</h3>
+                  <p><ul>
+                  <li> Essays </li>
+                  <li> Papers</li>
+                  <li> Assignments</li>
+                  <li> Journal articles </li>
+                  <li> Research projects</li>
+                  <li> CV (Professional)</li>
+                  <li> Cover Letter (Professional)</li>
+                  </ul>         
+
+</p>
                 </div>
               </div>
               <div class="col-sm-6 col-md-4 col-lg-2">
-                <div class="callout-btn-box"><a class="btn btn-w btn-round" href="portfolio_boxed_gutter_col_3.html">Lets view portfolio</a></div>
               </div>
             </div>
           </div>
@@ -101,7 +78,7 @@ require_once('menu.php')?>
             <div class="row multi-columns-row">
               <div class="col-sm-6 col-md-3 col-lg-3">
                 <div class="price-table font-alt">
-                  <h4>Light</h4>
+                  <h4>Academic</h4>
                   <div class="borderline"></div>
                   <p class="price"><span>$</span>9
                   </p>
@@ -116,7 +93,7 @@ require_once('menu.php')?>
               </div>
               <div class="col-sm-6 col-md-3 col-lg-3">
                 <div class="price-table font-alt">
-                  <h4>Basic</h4>
+                  <h4>Professional</h4>
                   <div class="borderline"></div>
                   <p class="price"><span>$</span>29
                   </p>
@@ -129,41 +106,10 @@ require_once('menu.php')?>
                   </ul><a class="btn btn-d btn-round" href="#">Sign Up</a>
                 </div>
               </div>
-              <div class="col-sm-6 col-md-3 col-lg-3">
-                <div class="price-table font-alt best">
-                  <h4>Advanced</h4>
-                  <p class="small">Best Choice</p>
-                  <div class="borderline"></div>
-                  <p class="price"><span>$</span>64
-                  </p>
-                  <ul class="price-details">
-                    <li>Free Support</li>
-                    <li>15 Demos Included</li>
-                    <li>Newsletter</li>
-                    <li>Working Contact Form</li>
-                    <li><span>Unlimited Domains</span></li>
-                  </ul><a class="btn btn-d btn-round" href="#">Sign Up</a>
-                </div>
-              </div>
-              <div class="col-sm-6 col-md-3 col-lg-3">
-                <div class="price-table font-alt">
-                  <h4>Ultimate</h4>
-                  <div class="borderline"></div>
-                  <p class="price"><span>$</span>119
-                  </p>
-                  <ul class="price-details">
-                    <li>Free Support</li>
-                    <li>15 Demos Included</li>
-                    <li>Newsletter</li>
-                    <li>Working Contact Form</li>
-                    <li>Unlimited Domains</li>
-                  </ul><a class="btn btn-d btn-round" href="#">Sign Up</a>
-                </div>
-              </div>
+
             </div>
             <div class="row mt-40">
               <div class="col-sm-6 col-sm-offset-3 align-center">
-                <p>Everyone realizes why a new common language would be desirable: one could refuse to pay expensive translators. To achieve this, it would be necessary to have uniform grammar, pronunciation and more common words.</p>
               </div>
             </div>
           </div>
