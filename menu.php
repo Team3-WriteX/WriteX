@@ -37,6 +37,7 @@
     -->
     <!-- Default stylesheets-->
     <link href="assets/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    
     <!-- Template specific stylesheets-->
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Volkhov:400i" rel="stylesheet">
@@ -69,88 +70,11 @@
             
                   <li ><a  href="about1.html" >About</a></li>
                   <li ><a  href="service1.php" >Services</a></li>
-                  <li ><a  href="#" >Pricing</a></li>
                   <li ><a  href="#" >Contact</a></li>
+                  <li ><a  href="servicerequest.php" >Service Request</a></li>
                   <li><a href="login_register.html">Login / Register</a></li>
-                  <li><a href="faq.html">FAQ</a></li>
-                 
-               
-             
-              <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Testimonials</a>
-                <ul class="dropdown-menu" role="menu">
-                  <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Boxed</a>
-                    <ul class="dropdown-menu">
-                      <li><a href="portfolio_boxed_col_2.html">2 Columns</a></li>
-                      <li><a href="portfolio_boxed_col_3.html">3 Columns</a></li>
-                      <li><a href="portfolio_boxed_col_4.html">4 Columns</a></li>
-                    </ul>
-                  </li>
-         
-                  <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Full Width</a>
-                    <ul class="dropdown-menu">
-                      <li><a href="portfolio_full_width_col_2.html">2 Columns</a></li>
-                      <li><a href="portfolio_full_width_col_3.html">3 Columns</a></li>
-                      <li><a href="portfolio_full_width_col_4.html">4 Columns</a></li>
-                    </ul>
-                  </li>
-                  <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Full Width - Gutter</a>
-                    <ul class="dropdown-menu">
-                      <li><a href="portfolio_full_width_gutter_col_2.html">2 Columns</a></li>
-                      <li><a href="portfolio_full_width_gutter_col_3.html">3 Columns</a></li>
-                      <li><a href="portfolio_full_width_gutter_col_4.html">4 Columns</a></li>
-                    </ul>
-                  </li>
-                  <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Masonry</a>
-                    <ul class="dropdown-menu">
-                      <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Boxed</a>
-                        <ul class="dropdown-menu">
-                          <li><a href="portfolio_masonry_boxed_col_2.html">2 Columns</a></li>
-                          <li><a href="portfolio_masonry_boxed_col_3.html">3 Columns</a></li>
-                          <li><a href="portfolio_masonry_boxed_col_4.html">4 Columns</a></li>
-                        </ul>
-                      </li>
-                      <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Full Width</a>
-                        <ul class="dropdown-menu">
-                          <li><a href="portfolio_masonry_full_width_col_2.html">2 Columns</a></li>
-                          <li><a href="portfolio_masonry_full_width_col_3.html">3 Columns</a></li>
-                          <li><a href="portfolio_masonry_full_width_col_4.html">4 Columns</a></li>
-                        </ul>
-                      </li>
-                    </ul>
-                  </li>
-                  <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Hover Style</a>
-                    <ul class="dropdown-menu">
-                      <li><a href="portfolio_hover_black.html">Black</a></li>
-                      <li><a href="portfolio_hover_gradient.html">Gradient</a></li>
-                    </ul>
-                  </li>
-                  <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Single</a>
-                    <ul class="dropdown-menu">
-                      <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Featured Image</a>
-                        <ul class="dropdown-menu">
-                          <li><a href="portfolio_single_featured_image1.html">Style 1</a></li>
-                          <li><a href="portfolio_single_featured_image2.html">Style 2</a></li>
-                        </ul>
-                      </li>
-                      <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Featured Slider</a>
-                        <ul class="dropdown-menu">
-                          <li><a href="portfolio_single_featured_slider1.html">Style 1</a></li>
-                          <li><a href="portfolio_single_featured_slider2.html">Style 2</a></li>
-                        </ul>
-                      </li>
-                      <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Featured Video</a>
-                        <ul class="dropdown-menu">
-                          <li><a href="portfolio_single_featured_video1.html">Style 1</a></li>
-                          <li><a href="portfolio_single_featured_video2.html">Style 2</a></li>
-                        </ul>
-                      </li>
-                    </ul>
-                  </li>
-                </ul>
-              </li>
-              
-              
-              <li ><a  href="servicerequest.php" >Service Request</a></li>
+                  
+        
             </ul>
           </div>
         </div>

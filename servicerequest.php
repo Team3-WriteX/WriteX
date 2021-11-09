@@ -38,21 +38,29 @@
                   <label  for="style"> Select any Staff member of your choice your order should assigned to: </label>
                     <select class="form-control input-lg" id="style" name="style" type="text" required="required">
                       <option value="style" disabled="" selected="">Select:</option>
-                      <option value="APA">APA</option>
-                      <option value="IEEE">IEEE</option>
-                      <option value="MLA">MLA</option>
+                      <option value="id1">Ines</option>
+                      <option value="id2">Fiifi</option>
+                      <option value="id3">Casey</option>
 
                     </select>
                   </div>
                 </div>
-              
+
                   <div class="form-group">
                   <label for="specification"> Any Special Instructions for this order below:</label>
                     <textarea class="form-control" rows="7" id="specification" name="specification"  required="required" data-validation-required-message="Please enter your message."></textarea>
                     <p class="help-block text-danger"></p>
                   </div>
+
+                  <div class="form-group">
+                    <label  for="deadline">In how many days, do you need this order:</label>
+                    <input class="form-control" type="number" id="deadline" name="deadline" required="required" data-validation-required-message="Please enter number of days."/>
+                    <p class="help-block text-danger"></p>
+                  </div>
+
                   <div class="text-center">
-                    <button class="btn btn-block btn-round btn-d" id="desc" type="submit">Submit</button>
+                    <button class="btn btn-block btn-round btn-d" id="desc" type="button"><i class="fa fa-paper-plane-o"></i>Get a quote</button>
+                    
                   </div>
                 </form>
                 <div class="ajax-response font-alt" id="desc"></div>
